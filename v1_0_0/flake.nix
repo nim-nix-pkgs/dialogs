@@ -11,6 +11,7 @@
   inputs.src-dialogs-v1_0_0.ref   = "refs/tags/v1.0.0";
   inputs.src-dialogs-v1_0_0.owner = "nim-lang";
   inputs.src-dialogs-v1_0_0.repo  = "dialogs";
+  inputs.src-dialogs-v1_0_0.dir   = "";
   inputs.src-dialogs-v1_0_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

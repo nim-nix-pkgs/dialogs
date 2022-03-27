@@ -11,6 +11,7 @@
   inputs.src-dialogs-v1_1_1.ref   = "refs/tags/v1.1.1";
   inputs.src-dialogs-v1_1_1.owner = "nim-lang";
   inputs.src-dialogs-v1_1_1.repo  = "dialogs";
+  inputs.src-dialogs-v1_1_1.dir   = "";
   inputs.src-dialogs-v1_1_1.type  = "github";
   
   inputs."gtk2".owner = "nim-nix-pkgs";
