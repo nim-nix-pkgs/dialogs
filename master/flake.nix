@@ -11,7 +11,6 @@
   inputs.src-dialogs-master.ref   = "refs/heads/master";
   inputs.src-dialogs-master.owner = "nim-lang";
   inputs.src-dialogs-master.repo  = "dialogs";
-  inputs.src-dialogs-master.dir   = "";
   inputs.src-dialogs-master.type  = "github";
   
   inputs."gtk2".owner = "nim-nix-pkgs";
