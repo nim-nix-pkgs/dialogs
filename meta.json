@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/nim-lang/dialogs",
   "refs": [
-    "fatal: unable to access 'https://github.com/nim-lang/dialogs/': OpenSSL SSL_connect: Connection reset by peer in connection to github.com:443 ",
+    "fatal: unable to access 'https://github.com/nim-lang/dialogs/': Could not resolve host: github.com",
     ""
   ],
   "heads": []
