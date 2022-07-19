@@ -63,11 +63,11 @@
       },
       "locked": {
         "dir": "v1_3",
-        "lastModified": 1658032714,
-        "narHash": "sha256-gXV9Loa5dU9pok2C7tcdTGuAg4xlUW6SbI4Uk6Y62UY=",
+        "lastModified": 1658202628,
+        "narHash": "sha256-MCNzWrm+vEkc/HoOAkJiTBkXJFXTyxsFoka8DdFzOOA=",
         "owner": "nim-nix-pkgs",
         "repo": "gtk2",
-        "rev": "efb5cf0a0ab88eac99f346e3151b6b9d78ed8f6e",
+        "rev": "23663f0e858b9a7d91133a5250a45f265b77da20",
         "type": "github"
       },
       "original": {
